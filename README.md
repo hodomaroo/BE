@@ -1,6 +1,6 @@
 # MARCH BE
 
-MARCH의 계정·저장 API와 작업 실행을 담당합니다. [프로젝트 기획·디자인](https://github.com/hodomaroo/FE) · [AI](https://github.com/hodomaroo/AI) · [개발 흐름](CONTRIBUTING.md)
+MARCH의 계정·저장 API와 작업 실행을 담당합니다. [프로젝트 기획·디자인](https://github.com/march-my-archive/FE) · [AI](https://github.com/march-my-archive/AI) · [개발 흐름](CONTRIBUTING.md)
 
 ## 책임
 
